@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "adapterjs": "^0.15.4",
-    "firebase": "^7.15.5",
+    "firebase": "^10.9.0",
     "rtcmulticonnection": "^3.7.0",
     "vue": "^2.6.11",
     "vue-frame": "^1.0.7",
